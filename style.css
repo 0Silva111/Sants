@@ -50,10 +50,10 @@ html {
 }
 
 .logo img {
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
-    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    object-fit:cover;
+    border-radius: 10%;
 }
 
 .logo span {
@@ -177,20 +177,20 @@ body.me {
     width: 100%;
 }
 
-.text-about-me {
-    font-size: 1.6rem;
-    text-align: center;
-    text-shadow: 3px -2px 2px rgba(209, 57, 57, 0.6);
-    color: rgb(174, 14, 14);
-    margin-top: 20px;
-}
-
 .button {
     text-align: center;
     margin-top: -100px;
     container: center;
     text-shadow: 3px -2px 2px rgba(0, 0, 0, 0.6);
 
+}
+
+.text-about-me {
+    font-size: 1.6rem;
+    text-align: center;
+    text-shadow: 3px -2px 2px rgba(209, 57, 57, 0.6);
+    color: rgb(174, 14, 14);
+    margin-top: 20px;
 }
 
 .text-me {
