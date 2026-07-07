@@ -50,15 +50,17 @@ html {
 }
 
 .logo img {
-    width: 20px;
-    height: 20px;
-    object-fit:cover;
-    border-radius: 10%;
+  display: cover;
+  max-height: 38px;
+  margin-left: -10px;
+  
 }
 
 .logo span {
     font-family: 'Georgia', serif;
-    margin-left: 5px;
+    margin-left: -7px;
+    font-size: 1.5rem;
+    align-items: center;
 }
 
 .menu-nav ul {
@@ -73,7 +75,7 @@ html {
     color: white;
     text-decoration: none;
     font-weight: 700;
-    font-size: 1.100rem;
+    font-size: 1.25rem;
     position: relative;
 }
 
