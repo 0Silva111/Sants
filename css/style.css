@@ -1,5 +1,5 @@
-body.brain {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('butterfly.jpg');
+body.Sants {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('../assets/butterfly.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -128,7 +128,7 @@ html {
 /*more section*/
 
 body.more {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('panic.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('../assets/panic.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@ body.more {
 /*arts section*/
 
 body.arts {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('birds.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('../assets/birds.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ body.arts {
 /*me section*/
 
 body.me {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('stars.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('../assets/stars.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
