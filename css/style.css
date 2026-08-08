@@ -19,6 +19,11 @@ html {
     max-width: 100vw;
     overflow-x: hidden;
     height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100dvh; /* Adapta-se dinamicamente ao menu do celular */
+    background-color: #000000;
 }
 
 /*Header and Navigation*/
